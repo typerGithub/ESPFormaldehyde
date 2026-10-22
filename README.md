@@ -2,11 +2,9 @@
 
 <br>
 
-[![Badge Workflow]][Workflow]
 [![Badge License]][License] 
 ![Badge Language] 
 [![Badge Pull Requests]][Pull Requests] 
-[![Badge Issues]][Issues] 
 
 <br>
 
