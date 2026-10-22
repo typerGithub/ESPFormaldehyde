@@ -8,7 +8,7 @@
 
 <br>
 
-ESPFormaldehyde is opensource project for rapid, local measurement of formaldehyde levels in any geographical location in real time, with visual data display on a map, or measuring formaldehyde levels indoors without an internet connection.
+**ESPFormaldehyde** is open-source project for rapid, local measurement of formaldehyde levels in any geographical location in real time, with visual data display on a map, or measuring formaldehyde levels indoors without an internet connection.
 <br>
 <br>
 
